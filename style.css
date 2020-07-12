@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.container{
+    color: white;
+}
+
+button{
+    margin: 15px;
+    padding: 2px;
+    width: 177px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+button:hover{
+    color: blue;
+}
